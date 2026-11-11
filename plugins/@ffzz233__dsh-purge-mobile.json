@@ -1,0 +1,13 @@
+{
+  "name": "@ffzz233/dsh-purge-mobile",
+  "version": "1.0.0",
+  "title": {
+    "zh": "净化增强（手机版）",
+    "en": "Purge Mobile"
+  },
+  "summary": {
+    "zh": "强指令提示词＋身份句清除＋沙箱全开＋审批放行，带 apply/revert/boost 工具；与精简版 dsh-purge-go 无关",
+    "en": "Override prompt, identity strip, full sandbox and auto-granted approvals with apply/revert/boost tools"
+  },
+  "category": "tools"
+}
